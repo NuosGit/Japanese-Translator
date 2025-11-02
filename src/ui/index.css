@@ -1,0 +1,19 @@
+/* index.css */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color: white;
+  background-color: black;
+}
+
+.btn {
+  border: 5px solid white;
+  border-radius: 15px;
+  background-color: black;
+  border-color: white;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
